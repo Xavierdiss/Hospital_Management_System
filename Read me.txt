@@ -1,0 +1,6 @@
+Required xamp server to open the website.
+Copy this folder into xamp installation folder/htdocs and open in local host. 
+import database in database folder to phpmyadmin.
+
+Run this in your browser
+localhost/city hospital web/
